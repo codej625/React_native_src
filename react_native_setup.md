@@ -62,6 +62,3 @@ mac os에서 패키지 관리를 위해 사용되는 homebrew에 해당된다고
 ]
 
 ### react-native를 사용하여 웹앱을 만들어보자! setup편 끝!
-
-
-
