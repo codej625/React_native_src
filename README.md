@@ -1,2 +1,1 @@
-# React_native_src
-app
+# 리액트 네이티브 간단한 앱 만들기
